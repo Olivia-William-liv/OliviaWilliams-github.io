@@ -2,7 +2,7 @@
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
   },
-  "liveServer.settings.port": 5502,
+  "liveServer.settings.port": 5503,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[html]": {
@@ -10,7 +10,7 @@
     "editor.formatOnSave": true
   },
   "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "vscode.css-language-features",
     "editor.formatOnSave": true
   },
   "[javascript]": {
@@ -18,5 +18,8 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "prettier.tabWidth": 2
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
