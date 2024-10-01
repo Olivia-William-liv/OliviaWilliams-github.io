@@ -42,7 +42,6 @@ createPlatform(270,700,200,20)
 createPlatform(320,500,200,20)
 createPlatform(700,250,200,20)
 createPlatform(830,500,200,20)    
-createPlatform(1300,400,200,20)
     // TODO 2
     // Create collectables
     // You must decide on the collectable type, the x position, the y position, the gravity, and the bounce strength
